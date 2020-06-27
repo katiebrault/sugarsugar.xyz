@@ -72,8 +72,36 @@
         max-width: 300px; 
       }
      
+     
       h2 {
         text-align: center;
+     }
+     
+     .button-link {
+       display: inline-block;
+       background-color: aqua;
+       text-decoration: none;
+       margin-bottom: 5px;
+       padding: 40px;
+       font-size: 30px;
+       text-align: center;
+       font-family: sans-serif;
+       border-right: 7px solid darkblue;
+       border-bottom: 7px solid darkblue;
+       border-radius: 10px;
+     }
+     
+     .button-link:hover {
+       background-color: #00D9D9;
+       color: darkblue;
+     }
+     
+     .button-link:active {
+       color: darkblue;
+       border-left: 7px solid darkblue;
+       border-top: 7px solid darkblue;
+       border-right: 0px;
+       border-bottom: 0px;
      }
      
    </style>
@@ -102,7 +130,13 @@
           <li>We got a newsboard, I will keep you all updated on this.</li>         
           <li>It is summer, now I will be able to update my website more often.</li>
         </ol>
-      </div>
+     </div>
+
+     <p> Click here to go to my webpage, Random </p>
+    <a href="http://sugarsugar.xyz/random" class="button-link">
+      Random
+     </a>
+     
    </body>
 </html>
 </body>
