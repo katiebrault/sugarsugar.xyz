@@ -1,0 +1,90 @@
+div {
+        padding: 50px;
+        width: 100%
+        max-width: 300px; 
+      }
+     
+      .bob { 
+        background-color: aqua; 
+      } 
+     
+      .fun { 
+        background-color: blue; 
+      } 
+     
+      .cool {
+        background-color: violet; 
+      }
+     
+      .cool {
+        background-color: violet;
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        font-family: serif;
+        text-align: center;
+      }
+     
+      .am {
+        font-size: 30px;
+        font-family: serif; 
+        text-align: center;
+      }
+     
+      img {
+        width: 75%
+      } 
+     
+      .pm {
+        font-size: 20px;
+        font-family: serif;
+        color: purple;
+      }
+     
+      .abc {
+        font-size: 30px;
+        font-family: sefif;
+        color: purple;
+      }
+     
+      .katie {
+        font-size: 20px;
+        font-family: serif;
+        background-color: tan;
+        padding: 200px;
+        width: 100%
+        max-width: 300px; 
+      }
+     
+     
+      h2 {
+        text-align: center;
+     }
+     
+     .button-link {
+       display: inline-block;
+       background-color: aqua;
+       text-decoration: none;
+       margin-bottom: 5px;
+       padding: 40px;
+       font-size: 30px;
+       text-align: center;
+       font-family: sans-serif;
+       border-right: 7px solid darkblue;
+       border-bottom: 7px solid darkblue;
+       border-radius: 10px;
+     }
+     
+     .button-link:hover {
+       background-color: #00D9D9;
+       color: darkblue;
+     }
+     
+     .button-link:active {
+       color: darkblue;
+       border-left: 7px solid darkblue;
+       border-top: 7px solid darkblue;
+       border-right: 0px;
+       border-bottom: 0px;
+     }
+     
