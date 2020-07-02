@@ -13,10 +13,6 @@ div {
 } 
 
 .cool {
-  background-color: violet; 
-}
-
-.cool {
   background-color: violet;
   color: white;
   font-size: 30px;
@@ -87,25 +83,31 @@ h2 {
  border-right: 0px;
  border-bottom: 0px;
 }
- .weee {
-      text-align: center
-    }
-    .funtimes{
-      font-size:20px;
-      font-family:serif
-    }
+
+.weee {
+  text-align: center
+}
+
+.funtimes {
+  font-size: 20px;
+  font-family: serif; 
+}
+
 .cat {
-       text-align: center
-     }
- .weee {
-      text-align: center
-    }
-    .funtimes{
-      font-size:20px;
-      font-family:serif
-    }
- .bot {
-      font-size: 40px;
-      text-align: center;
-      
-    }
+  text-align: center;
+}
+
+.weee {
+  text-align: center;
+}
+
+.funtimes{
+  font-size:20px;
+  font-family:serif;
+}
+
+.bot {
+  font-size: 40px;
+  text-align: center; 
+}
+
